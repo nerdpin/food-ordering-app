@@ -2,14 +2,13 @@
 
 ## Description 
 
-This application is build using HTML, CSS and JavaScript.
+This application is built using HTML, CSS, and JavaScript.
 
-Used checkbox for taking input from users and learn to handle events and process ordered of customer. 
+Used checkbox for taking input from users and learning to handle events and process orders of customers. 
 
-After placeing order customer gets a Token number.
+After placing an order customer gets a Token number.
 
-setTimeout is applied to make it look realistic and after setTimout get executed your order will be displayed on screen.
-
+setTimeout is applied to make it look realistic and after setTimout is executed, your order will be displayed on screen.
 
 ## Screenshot
 
