@@ -1,5 +1,3 @@
-## Food_ordering_app
-
 ## Description 
 
 This application is built using HTML, CSS, and JavaScript.
